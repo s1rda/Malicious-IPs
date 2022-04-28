@@ -1,0 +1,61 @@
+[ 4] Anywhere                   DENY IN     74.120.14.0/24             # Censys
+[ 5] Anywhere                   DENY IN     64.62.202.96/27            # Shadowserver
+[ 6] Anywhere                   DENY IN     66.220.23.112/29           # Shadowserver
+[ 7] Anywhere                   DENY IN     74.82.47.0/26              # Shadowserver
+[ 8] Anywhere                   DENY IN     184.105.139.64/26          # Shadowserver
+[ 9] Anywhere                   DENY IN     184.105.143.128/26         # Shadowserver
+[10] Anywhere                   DENY IN     184.105.247.192/26         # Shadowserver
+[11] Anywhere                   DENY IN     216.218.206.64/26          # Shadowserver
+[12] Anywhere                   DENY IN     141.212.0.0/16             # Shadowserver
+[13] Anywhere                   DENY IN     144.86.173.0/24            # PAN Expanse
+[14] Anywhere                   DENY IN     208.180.20.97              # Shodan
+[15] Anywhere                   DENY IN     198.20.69.74               # Shodan
+[16] Anywhere                   DENY IN     198.20.69.98               # Shodan
+[17] Anywhere                   DENY IN     198.20.70.114              # Shodan
+[18] Anywhere                   DENY IN     198.20.99.130              # Shodan
+[19] Anywhere                   DENY IN     93.120.27.62               # Shodan
+[20] Anywhere                   DENY IN     104.131.0.69               # Shodan
+[21] Anywhere                   DENY IN     104.236.198.48             # Shodan
+[22] Anywhere                   DENY IN     155.94.222.12              # Shodan
+[23] Anywhere                   DENY IN     155.94.254.133             # Shodan
+[24] Anywhere                   DENY IN     155.94.254.143             # Shodan
+[25] Anywhere                   DENY IN     162.159.244.38             # Shodan
+[26] Anywhere                   DENY IN     185.181.102.18             # Shodan
+[27] Anywhere                   DENY IN     188.138.9.50               # Shodan
+[28] Anywhere                   DENY IN     198.20.87.98               # Shodan
+[29] Anywhere                   DENY IN     209.126.110.38             # Shodan
+[30] Anywhere                   DENY IN     216.117.2.180              # Shodan
+[31] Anywhere                   DENY IN     66.240.192.138             # Shodan
+[32] Anywhere                   DENY IN     66.240.219.146             # Shodan
+[33] Anywhere                   DENY IN     66.240.236.119             # Shodan
+[34] Anywhere                   DENY IN     71.6.135.131               # Shodan
+[35] Anywhere                   DENY IN     71.6.146.185               # Shodan
+[36] Anywhere                   DENY IN     71.6.158.166               # Shodan
+[37] Anywhere                   DENY IN     71.6.165.200               # Shodan
+[38] Anywhere                   DENY IN     71.6.167.142               # Shodan
+[39] Anywhere                   DENY IN     82.221.105.6               # Shodan
+[40] Anywhere                   DENY IN     82.221.105.7               # Shodan
+[41] Anywhere                   DENY IN     85.25.103.50               # Shodan
+[42] Anywhere                   DENY IN     85.25.43.94                # Shodan
+[43] Anywhere                   DENY IN     98.143.148.107             # Shodan
+[44] Anywhere                   DENY IN     98.143.148.135             # Shodan
+[45] Anywhere                   DENY IN     93.174.95.106              # Shodan
+[46] Anywhere                   DENY IN     94.102.49.193              # Shodan
+[47] Anywhere                   DENY IN     80.82.77.139               # Shodan
+[48] Anywhere                   DENY IN     94.102.49.190              # Shodan
+[49] Anywhere                   DENY IN     185.163.109.66             # Shodan
+[50] Anywhere                   DENY IN     89.248.172.16              # Shodan
+[51] Anywhere                   DENY IN     71.6.146.186               # Shodan
+[52] Anywhere                   DENY IN     89.248.167.131             # Shodan
+[53] Anywhere                   DENY IN     159.203.176.62             # Shodan
+[54] Anywhere                   DENY IN     80.82.77.33                # Shodan
+[55] Anywhere                   DENY IN     71.6.199.23                # Shodan
+[56] Anywhere                   DENY IN     185.142.236.34             # Shodan
+[57] Anywhere                   DENY IN     185.165.190.34             # Shodan
+[58] Anywhere                   DENY IN     185.142.236.35             # Shodan
+[60] Anywhere                   DENY IN     162.142.125.0/24           # Censys
+[61] Anywhere                   DENY IN     167.94.138.0/24            # Censys
+[62] Anywhere                   DENY IN     167.94.145.0/24            # Censys
+[63] Anywhere                   DENY IN     167.94.146.0/24            # Censys
+[64] Anywhere                   DENY IN     167.248.133.0/24           # Censys
+[65] Anywhere                   DENY IN     192.35.168.0/23            # Censys
